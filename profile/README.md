@@ -50,7 +50,7 @@ Orbition Network redefines the relationship between data, AI, and society:
 ## 💼 Team Experience
 
 Our team and advisors bring experience from industry leaders:
-NVIDIA, Coinbase, Kima Finance, Anchorage Digital, Fireblocks
+NVIDIA, Coinbase, Anchorage Digital, Fireblocks
 
 ## 🌐 Orbition Testnet (L1)
 
