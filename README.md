@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="./profile/logo.png" alt="Orbition Network">
+  <img src="./profile/logo.png" alt="Orbition Network" style="max-width: 100%; height: auto;">
 </h1>
 
 <h1 align="center">Orbition Network</h1>
-<h3 align="center">A next-gen Layer-1 blockchain optimized for ultra-scalable AI and Zero-Knowledge technologies</h3>
+<h3 align="center">Layer-1 infrastructure built for AI scalability and Zero-Knowledge Systems</h3>
 
 <p align="center">
   <a href="https://orbition.network/" target="_blank">
@@ -50,7 +50,7 @@ Orbition Network redefines the relationship between data, AI, and society:
 ## 💼 Team Experience
 
 Our team and advisors bring experience from industry leaders:
-NVIDIA, Coinbase, Kima Finance, Anchorage Digital, Fireblocks
+NVIDIA, Coinbase, Anchorage Digital, Fireblocks
 
 ## 🌐 Orbition Testnet (L1)
 

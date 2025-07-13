@@ -1,5 +1,9 @@
+<h1 align="center">
+  <img src="./logo.png" alt="Orbition Network" style="max-width: 100%; height: auto;">
+</h1>
+
 <h1 align="center">Orbition Network</h1>
-<h3 align="center">A next-gen Layer-1 blockchain optimized for ultra-scalable AI and Zero-Knowledge technologies</h3>
+<h3 align="center">Layer-1 infrastructure built for AI scalability and Zero-Knowledge Systems</h3>
 
 <p align="center">
   <a href="https://orbition.network/" target="_blank">
