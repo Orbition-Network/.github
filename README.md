@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="./profile/logo.png" alt="Orbition Network" style="max-width: 100px; height: auto;">
+  <img src="./profile/logo.png" alt="Orbition Network" style="width: 100px; height: auto;">
 </h1>
 
 <h1 align="center">Orbition Network</h1>
