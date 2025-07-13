@@ -56,7 +56,6 @@ NVIDIA, Coinbase, Kima Finance, Anchorage Digital, Fireblocks
 
 ```
 Name: Orbition Network Testnet
-Network name: Orbition blockchain
 Currency symbol: OBN
 RPC URL: https://rpc-testnet.orbition.network
 Chain ID: 4723
