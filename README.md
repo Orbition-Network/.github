@@ -9,7 +9,7 @@
   <a href="https://orbition.network/" target="_blank">
     <img src="https://img.shields.io/badge/Website-orbition.network-blue?style=for-the-badge&logo=web" alt="Website">
   </a>
-  <a href="https://twitter.com/Orbition_Network" target="_blank">
+  <a href="https://twitter.com/OrbitionNetwork" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-Orbition__Network-blue?style=for-the-badge&logo=twitter" alt="Twitter">
   </a>
   <a href="https://t.me/Orbition_Network" target="_blank">
